@@ -3,6 +3,6 @@
 ## Notes: Adds a slash command that tells you how many titles your current character has.
 ## Author: Sauravisus
 ## Version: 1.0.0
-## X-Curse-Project-ID: 1234
+## X-Curse-Project-ID: 646799
 
 core.lua
