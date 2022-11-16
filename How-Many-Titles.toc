@@ -1,8 +1,8 @@
-## Interface: 100000
+## Interface: 100020
 ## Title: How Many Titles?
 ## Notes: Adds a slash command that tells you how many titles your current character has.
 ## Author: Sauravisus
-## Version: 1.0.2
+## Version: 1.0.3
 ## X-Curse-Project-ID: 646799
 
 core.lua
