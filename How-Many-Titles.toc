@@ -1,7 +1,7 @@
-## Interface: 100207, 110000, 110002
+## Interface: 100207, 110000, 110002, 110005
 ## Title: How Many Titles?
 ## Notes: Adds a slash command that tells you how many titles your current character has.
-## Author: Sauravisus (Xerastrasza - Magtheridon EU, Horde)
+## Author: Sauravisus (Xirastrasza - Argent Dawn EU, Horde)
 ## Version: @project-version@
 ## X-Date: @project-date-iso@
 ## X-Curse-Project-ID: 646799
