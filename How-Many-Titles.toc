@@ -1,4 +1,5 @@
-## Interface: 100207, 110000, 110002, 110005
+## Interface: 110005, 110007
+
 ## Title: How Many Titles?
 ## Notes: Adds a slash command that tells you how many titles your current character has.
 ## Author: Sauravisus (Xirastrasza - Argent Dawn EU, Horde)
