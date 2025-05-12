@@ -1,4 +1,4 @@
-## Interface: 110105, 110100
+## Interface: 110107, 110105, 110100
 
 ## Title: How Many Titles?
 ## Notes: Adds a slash command that tells you how many titles your current character has.
